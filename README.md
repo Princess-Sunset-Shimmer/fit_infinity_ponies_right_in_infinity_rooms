@@ -9,3 +9,4 @@ there is an infinity bus has infinity people, each one has an unique name constr
 but the hotel manager tells them hotel has no enough room for them, and make a list to show them why. flip the first character of the first one's name and flip the second character of second one's name and so on, combine new fliped characters into a new name, and sthis new name won't appear on the list, so this one has no room.
 
 ### the method to fit infinity guest right in infinity room hotel
+#### the understanding might be big wrong, comment to tell me please if you know me wrong
