@@ -10,6 +10,5 @@ But the hotel manager tells them hotel has no enough room for them, and make a l
 
 ### The method to fit infinity guest right in infinity room hotel
 #### The understanding might be big wrong, comment to tell me please if you know me wrong
-Still assuming is an infinity bus with infinity guest, and each guest has unique name like original one. Let 'A' represent number one, and 'B' represent number zero; And let first character place represent 2^0, the second character place represent 2^1, and so on. see the pic below
-
+Still assuming is an infinity bus with infinity guest, and each guest has unique name like original one. Let 'A' represent number one, and 'B' represent number zero; And let first character place represent 2^0, the second character place represent 2^1, and so on. for example the "AABA" means number 9.
 
