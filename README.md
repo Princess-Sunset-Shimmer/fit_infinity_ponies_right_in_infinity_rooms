@@ -9,7 +9,7 @@ There is an infinity bus has infinity people, each one has an unique name constr
 But the hotel manager tells them hotel has no enough room for them, and make a list to show them why. Flip the first character of the first one's name and flip the second character of second one's name and so on, combine new fliped characters into a new name, and sthis new name won't appear on the list, so this one has no room.
 
 ### The method to fit infinity guest right in infinity room hotel
-#### The understanding might be big mistaken, comment to tell me please if you know me wrong
+#### The understanding might be big mistaken idea, comment to tell me please if you know me wrong
 Still assuming is an infinity bus with infinity guest, and each guest has unique name like original one. Let 'A' represent number one, and 'B' represent number zero; And let first character place represent 2^0, the second character place represent 2^1, and so on. for example the "AABA" means number 11 in decimal. See pic below:
 ![pic_e](https://raw.githubusercontent.com/Princess-Sunset-Shimmer/fit_infinity_ponies_right_in_infinity_rooms/main/pic_e.jpeg)
 
