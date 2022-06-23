@@ -10,3 +10,4 @@ but the hotel manager tells them hotel has no enough room for them, and make a l
 
 ### the method to fit infinity guest right in infinity room hotel
 #### the understanding might be big wrong, comment to tell me please if you know me wrong
+still assuming is an infinity bus with infinity guest, and each guest has unique name like original one. and let 'A' represent number one, and 'B' represent number zero
