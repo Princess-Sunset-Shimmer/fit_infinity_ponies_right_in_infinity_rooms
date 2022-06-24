@@ -16,6 +16,7 @@ Still assuming is an infinity bus with infinity guest, and each guest has unique
 ![pic_e](https://raw.githubusercontent.com/Princess-Sunset-Shimmer/fit_infinity_ponies_right_in_infinity_rooms/main/pic_e.jpeg)
 
 So we can rearrange infinity guest by their name represented number's size, and put them into infinity room one by one; As there geust with name BBBBBBBB... (infinity 'B') go to room_1 please, and the guest with name ABBBBBBB... (the infinity 'B' plus 'A') go to room_2, and the guest with name BABBBBBB... (the infinity 'B' plus 'A' twice) go to room_3, and so on. They host to infinity room one by one, and not hard to figure out the name that represents the largest number will go to the last room of infinity room hotel. This number is largest so this name must be full of infinity 'A' as AAAAAAAA... (infinity 'A'). If we make a list of new rearranged infinity guest, and flip their name's character one by one to generate new name that takes no room, as original Hilbert Hotel does; We will see this name will appear on the list, and this name appears on the last room of infinity room.
+
 [new list](https://player.odycdn.com/api/v4/streams/free/pic_2/e962fa3adaa1c3d447042814d4e17a665ecf9e68/02c5c6)
 ![new list](https://player.odycdn.com/api/v4/streams/free/pic_2/e962fa3adaa1c3d447042814d4e17a665ecf9e68/02c5c6)
 So all infinity name fit right in the infinity room. Right? Is my reasoning fallacy?
